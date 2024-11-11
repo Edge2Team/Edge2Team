@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Liberty Santos<br>👯 I’m looking to collaborate on EdgeTeam
+🔭 I’m currently working on EdgeProjets <br>👯 I’m looking to collaborate on EdgeTeam
 
 
 ## 🌐 Socials:
