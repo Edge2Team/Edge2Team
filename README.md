@@ -1,4 +1,4 @@
-<h1 align="center">☕ 1CoffeeShop</h1>
+<h1 align="center">☕ CoffeeShop</h1>
 <p align="center"><em>Developer passionate about revolutionizing the FiveM experience.</em></p>
 
 <pre>
@@ -47,7 +47,7 @@ I don’t just code for functionality — I code to bring innovation to life. My
 
 ## 📈 Coming Soon
 
-- 📦 Standalone FiveM tools & admin utilities  
+- 📦 Standalone FiveM tools, admin utilities or Framework tools 
 - 🔍 Performance-friendly monitoring scripts  
 - 🎨 Unique user interface kits  
 - 💡 Open-source systems for the community
